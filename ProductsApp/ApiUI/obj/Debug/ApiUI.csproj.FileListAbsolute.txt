@@ -1,0 +1,16 @@
+C:\Users\E81385\Desktop\ProductsApp\ApiUI\bin\Debug\ApiUI.exe.config
+C:\Users\E81385\Desktop\ProductsApp\ApiUI\bin\Debug\ApiUI.exe
+C:\Users\E81385\Desktop\ProductsApp\ApiUI\bin\Debug\ApiUI.pdb
+C:\Users\E81385\Desktop\ProductsApp\ApiUI\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\E81385\Desktop\ProductsApp\ApiUI\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\E81385\Desktop\ProductsApp\ApiUI\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\E81385\Desktop\ProductsApp\ApiUI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\E81385\Desktop\ProductsApp\ApiUI\obj\Debug\ApiUI.csprojAssemblyReference.cache
+C:\Users\E81385\Desktop\ProductsApp\ApiUI\obj\Debug\ApiUI.Form1.resources
+C:\Users\E81385\Desktop\ProductsApp\ApiUI\obj\Debug\ApiUI.Properties.Resources.resources
+C:\Users\E81385\Desktop\ProductsApp\ApiUI\obj\Debug\ApiUI.csproj.GenerateResource.cache
+C:\Users\E81385\Desktop\ProductsApp\ApiUI\obj\Debug\ApiUI.csproj.CoreCompileInputs.cache
+C:\Users\E81385\Desktop\ProductsApp\ApiUI\obj\Debug\ApiUI.csproj.CopyComplete
+C:\Users\E81385\Desktop\ProductsApp\ApiUI\obj\Debug\ApiUI.exe
+C:\Users\E81385\Desktop\ProductsApp\ApiUI\obj\Debug\ApiUI.pdb
+C:\Users\E81385\Desktop\ProductsApp\ApiUI\bin\Debug\Newtonsoft.Json.xml
